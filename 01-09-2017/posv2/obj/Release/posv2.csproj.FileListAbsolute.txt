@@ -80,3 +80,25 @@ C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\pos
 C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Properties.Resources.resources
 C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.csproj.GenerateResource.Cache
 C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\bin\Release\posv2.exe.config
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.exe
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.pdb
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\bin\Release\posv2.exe
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\bin\Release\posv2.pdb
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Discount.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.FormConfirmLogout.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.FormMessage.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.FormWakeUp.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_auth.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_change.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_ChangeGuestTable.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_continue_order.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_dineIn.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_login.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_display.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_Pay.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_Productqty.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Form_SearchProduct.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.Properties.Resources.resources
+C:\Users\PC\Desktop\mPOS\01-09-2017\posv2\obj\Release\posv2.csproj.GenerateResource.Cache
