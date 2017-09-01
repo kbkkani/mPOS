@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E46C5C24-2B2C-46D5-8BCC-AF58268BBBCC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>posv2</RootNamespace>
+    <AssemblyName>posv2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Billprint.cs" />
+    <Compile Include="Botprint.cs" />
+    <Compile Include="db.cs" />
+    <Compile Include="Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discount.Designer.cs">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfirmLogout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfirmLogout.Designer.cs">
+      <DependentUpon>FormConfirmLogout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessage.Designer.cs">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWakeUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWakeUp.Designer.cs">
+      <DependentUpon>FormWakeUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_auth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_auth.Designer.cs">
+      <DependentUpon>Form_auth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_change.Designer.cs">
+      <DependentUpon>Form_change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ChangeGuestTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ChangeGuestTable.Designer.cs">
+      <DependentUpon>Form_ChangeGuestTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_continue_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_continue_order.Designer.cs">
+      <DependentUpon>Form_continue_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_dineIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_dineIn.Designer.cs">
+      <DependentUpon>Form_dineIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_login.Designer.cs">
+      <DependentUpon>Form_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_display.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_display.Designer.cs">
+      <DependentUpon>Form_display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Pay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Pay.Designer.cs">
+      <DependentUpon>Form_Pay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Productqty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Productqty.Designer.cs">
+      <DependentUpon>Form_Productqty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SearchProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SearchProduct.Designer.cs">
+      <DependentUpon>Form_SearchProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kotprint.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receipt.cs" />
+    <Compile Include="SessionData.cs" />
+    <Compile Include="VoidOrder.cs" />
+    <Compile Include="Xreport.cs" />
+    <Compile Include="Zreport.cs" />
+    <EmbeddedResource Include="Discount.resx">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfirmLogout.resx">
+      <DependentUpon>FormConfirmLogout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessage.resx">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWakeUp.resx">
+      <DependentUpon>FormWakeUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_auth.resx">
+      <DependentUpon>Form_auth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_change.resx">
+      <DependentUpon>Form_change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ChangeGuestTable.resx">
+      <DependentUpon>Form_ChangeGuestTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_continue_order.resx">
+      <DependentUpon>Form_continue_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_dineIn.resx">
+      <DependentUpon>Form_dineIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_login.resx">
+      <DependentUpon>Form_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_display.resx">
+      <DependentUpon>Form_display.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Pay.resx">
+      <DependentUpon>Form_Pay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Productqty.resx">
+      <DependentUpon>Form_Productqty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SearchProduct.resx">
+      <DependentUpon>Form_SearchProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mpos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\primary-logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\primary-logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_alert.gif~c200.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-xxl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ecommerce-collection-outlines-28-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_user-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,82 @@
+C:\vb\pos-2.3-restaurant\posv2\bin\Release\posv2.exe.config
+C:\vb\pos-2.3-restaurant\posv2\bin\Release\posv2.exe
+C:\vb\pos-2.3-restaurant\posv2\bin\Release\posv2.pdb
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Discount.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.FormConfirmLogout.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.FormWakeUp.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_auth.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_change.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_dineIn.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_login.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_display.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Pay.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Productqty.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_SearchProduct.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.Properties.Resources.resources
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.csproj.GenerateResource.Cache
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.exe
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.pdb
+C:\vb\pos-2.3-restaurant\posv2\obj\Release\posv2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\bin\Release\posv2.exe.config
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.exe
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.pdb
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\bin\Release\posv2.exe
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\bin\Release\posv2.pdb
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Discount.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.FormConfirmLogout.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.FormWakeUp.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_auth.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_change.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_dineIn.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_login.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_display.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Pay.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Productqty.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_SearchProduct.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.Properties.Resources.resources
+C:\Users\PC\Desktop\pos-2.3-restaurant\posv2\obj\Release\posv2.csproj.GenerateResource.Cache
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\bin\Release\posv2.exe.config
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.exe
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.pdb
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\bin\Release\posv2.exe
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\bin\Release\posv2.pdb
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.csprojResolveAssemblyReference.cache
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Discount.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.FormConfirmLogout.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.FormMessage.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.FormWakeUp.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_auth.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_change.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_ChangeGuestTable.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_continue_order.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_dineIn.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_login.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_display.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Pay.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Productqty.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_SearchProduct.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.Properties.Resources.resources
+C:\vb\POS R\30-08-2017\pos-2.3-restaurant\posv2\obj\Release\posv2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\bin\Release\posv2.exe.config
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.exe
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.pdb
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\bin\Release\posv2.exe
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\bin\Release\posv2.pdb
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Discount.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.FormConfirmLogout.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.FormMessage.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.FormWakeUp.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_auth.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_change.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_ChangeGuestTable.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_continue_order.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_dineIn.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_login.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_display.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Pay.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_Productqty.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Form_SearchProduct.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.Properties.Resources.resources
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\31 pos for office 2\pos-2.3-restaurant\posv2\obj\Release\posv2.csprojResolveAssemblyReference.cache

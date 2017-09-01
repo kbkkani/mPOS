@@ -1,0 +1,66 @@
+﻿1>------ Rebuild All started: Project: posv2, Configuration: Debug Any CPU ------
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(251,20,251,27): warning CS0219: The variable 'DrawnBy' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\db.cs(40,61,40,62): warning CS0642: Possible mistaken empty statement
+1>C:\Users\PC\Desktop\posv2\posv2\Form_display.cs(896,20,896,24): warning CS0219: The variable 'orid' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(14,20,14,24): warning CS0168: The variable 'host' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(15,20,15,26): warning CS0168: The variable 'dbuser' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(16,20,16,30): warning CS0168: The variable 'dbpassword' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(17,20,17,22): warning CS0168: The variable 'db' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(18,20,18,27): warning CS0168: The variable 'comport' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(19,17,19,26): warning CS0219: The variable 'loginMode' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(20,18,20,26): warning CS0219: The variable 'userAuth' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(21,20,21,28): warning CS0219: The variable 'authType' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(22,20,22,24): warning CS0168: The variable 'user' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(23,20,23,26): warning CS0168: The variable 'userid' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(24,20,24,29): warning CS0219: The variable 'cartTotal' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(25,17,25,26): warning CS0219: The variable 'itemCount' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(26,20,26,33): warning CS0219: The variable 'serviceCharge' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(27,20,27,28): warning CS0219: The variable 'discount' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(28,20,28,26): warning CS0168: The variable 'change' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(29,20,29,29): warning CS0168: The variable 'payamount' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(30,20,30,30): warning CS0168: The variable 'billamount' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(31,17,31,22): warning CS0168: The variable 'guest' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(32,20,32,25): warning CS0219: The variable 'tabel' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(33,18,33,28): warning CS0168: The variable 'newOrderId' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(34,17,34,26): warning CS0219: The variable 'orderType' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(35,18,35,31): warning CS0219: The variable 'cashdisplayon' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(36,20,36,28): warning CS0168: The variable 'cardname' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(37,20,37,28): warning CS0168: The variable 'cardtype' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(38,17,38,31): warning CS0168: The variable 'cardlastdigits' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(39,17,39,28): warning CS0168: The variable 'paymentType' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(40,20,40,33): warning CS0168: The variable 'lastbillamout' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(41,20,41,35): warning CS0168: The variable 'discountedPrice' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(42,20,42,32): warning CS0168: The variable 'servicePrice' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(43,20,43,26): warning CS0168: The variable 'stward' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\SessionData.cs(47,17,47,28): warning CS0168: The variable 'receiptType' is declared but never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(13,23,13,27): warning CS0414: The field 'posv2.Billprint.pdoc' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(14,13,14,20): warning CS0169: The field 'posv2.Billprint.orderid' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(14,22,14,25): warning CS0169: The field 'posv2.Billprint.qty' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(14,27,14,31): warning CS0169: The field 'posv2.Billprint.user' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(15,18,15,28): warning CS0169: The field 'posv2.Billprint.TicketDate' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(16,16,16,24): warning CS0169: The field 'posv2.Billprint.itemname' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(16,33,16,40): warning CS0169: The field 'posv2.Billprint.created' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(18,16,18,24): warning CS0169: The field 'posv2.Billprint.discount' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Billprint.cs(18,26,18,31): warning CS0169: The field 'posv2.Billprint.servc' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Botprint.cs(13,23,13,27): warning CS0414: The field 'posv2.Botprint.pdoc' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Botprint.cs(14,22,14,25): warning CS0169: The field 'posv2.Botprint.qty' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Botprint.cs(15,18,15,28): warning CS0169: The field 'posv2.Botprint.TicketDate' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Botprint.cs(16,16,16,24): warning CS0169: The field 'posv2.Botprint.itemname' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\db.cs(23,24,23,40): warning CS0414: The field 'posv2.db.server_passsword' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Form_display.cs(238,22,238,36): warning CS0414: The field 'posv2.Form_display.paymentSuccess' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Form_display.cs(239,24,239,37): warning CS0169: The field 'posv2.Form_display.paymentStatus' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Form_Pay.cs(15,21,15,32): warning CS0414: The field 'posv2.Form_Pay.paymentType' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Kotprint.cs(13,23,13,27): warning CS0414: The field 'posv2.Kotprint.pdoc' is assigned but its value is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Kotprint.cs(14,22,14,25): warning CS0169: The field 'posv2.Kotprint.qty' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Kotprint.cs(15,18,15,28): warning CS0169: The field 'posv2.Kotprint.TicketDate' is never used
+1>C:\Users\PC\Desktop\posv2\posv2\Kotprint.cs(16,16,16,24): warning CS0169: The field 'posv2.Kotprint.itemname' is never used
+1>  posv2 -> C:\Users\PC\Desktop\posv2\posv2\bin\Debug\posv2.exe
+------ Starting pre-build validation for project 'SetupPOSv2' ------ 
+------ Pre-build validation for project 'SetupPOSv2' completed ------
+2>------ Rebuild All started: Project: SetupPOSv2, Configuration: Debug ------
+Building file 'C:\Users\PC\Desktop\posv2\SetupPOSv2\Debug\SetupPOSv2.msi'...
+Packaging file 'MPOS.ico'...
+Packaging file 'posv2.exe.config'...
+Packaging file 'MySql.Data.dll'...
+Packaging file 'posv2.exe'...
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
