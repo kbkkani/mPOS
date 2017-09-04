@@ -15,14 +15,32 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_D8B2787D88D94A408C18E093096C8E81"
+        "MsmKey" = "8:_290F4FB4B5324C37B98DAC3DA8E918F8"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9C3A57C0E29BE92559819ADEE9911640"
+        "OwnerKey" = "8:_EAED548622BE414587518FAA1FBEDE77"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_EAED548622BE414587518FAA1FBEDE77"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9C3A57C0E29BE92559819ADEE9911640"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_EAED548622BE414587518FAA1FBEDE77"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -120,9 +138,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D8B2787D88D94A408C18E093096C8E81"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_290F4FB4B5324C37B98DAC3DA8E918F8"
             {
-            "SourcePath" = "8:..\\MPOS.ico"
+            "SourcePath" = "8:..\\..\\MPOS.ico"
             "TargetName" = "8:MPOS.ico"
             "Tag" = "8:"
             "Folder" = "8:_C1E41FC0B57349A5930F284EF4F6FE94"
@@ -138,6 +156,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9C3A57C0E29BE92559819ADEE9911640"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9C3A57C0E29BE92559819ADEE9911640"
+                    {
+                    "Name" = "8:MySql.Data.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:MySql.Data.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C1E41FC0B57349A5930F284EF4F6FE94"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
         }
@@ -317,9 +366,9 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E5BB9F88AC1A48E982F28D268CC7C3F0"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_C6D9540D083C495AA69955B5C8ECD31A"
             {
-            "Name" = "8:mPOS v 3.0"
+            "Name" = "8:mPOS"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -328,7 +377,7 @@
             "Target" = "8:_EAED548622BE414587518FAA1FBEDE77"
             "Folder" = "8:_B3F5C9FEDE8745F7837E8B7502259E21"
             "WorkingFolder" = "8:_C1E41FC0B57349A5930F284EF4F6FE94"
-            "Icon" = "8:_D8B2787D88D94A408C18E093096C8E81"
+            "Icon" = "8:_290F4FB4B5324C37B98DAC3DA8E918F8"
             "Feature" = "8:"
             }
         }
